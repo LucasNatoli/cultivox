@@ -1,18 +1,21 @@
-# cultivox
+# Cultivox
 Sistema de monitoreo y control de ambientes de cultivo
 
-Controles:
-Temperatura
-Humedad
-Ph
-PPM
-control de ciclos de luz
-nivel de agua en reservorio
+### Sensores:
++ Temperatura
++ Humedad
++ Ph
++ PPM
++ nivel de agua en reservorio
 
+### Actuadores
++ control de ciclos de luz
++ agenda de riegos
++ riegos por sensor
 
 ## Features
 
-### Gestion de carpas.
+### Gestion de carpas
 Agregar una nueva carpa o editar los datos de una que ya existe.
 Los datos son:
 
@@ -28,10 +31,12 @@ En funcion de dichos componetes cada carpa muestera un tablero de control (dashb
 
 Ademas debe permitir configurar motores y ciclos de luz segun sus parámetros.
 
-### ALERTAS
+### Alertas
 Cambios de alguna condicion (temp, humedad, co2. etc) al traspasar un umbral determinado.
 
+### Red Social
 
+Compartir diario de cultivo
 
 
 ### Referencias:
