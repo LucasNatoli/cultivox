@@ -2,12 +2,12 @@
 Sistema de monitoreo y control de ambientes de cultivo
 
 Controles:
-Temperatura
-Humedad
-Ph
-PPM
-control de ciclos de luz
-nivel de agua en reservorio
++ Temperatura
++ Humedad
++ Ph
++ PPM
++ control de ciclos de luz
++ nivel de agua en reservorio
 
 
 ## Features
